@@ -1,0 +1,818 @@
+{
+ "train": [
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_002_S_0816_MR_HarP_135_final_release_2015_Br_20150226095730103_S29612_I474737.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_002_S_0816_49010_L.nii",
+   "subject": "ADNI_002_S_0816",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_003_S_1257_MR_HarP_135_final_release_2015_Br_20150226104837085_S27340_I474809.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_003_S_1257_42137_L.nii",
+   "subject": "ADNI_003_S_1257",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_003_S_4136_MR_HarP_135_final_release_2015_Br_20150226093625171_S118501_I474712.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_003_S_4136_250173_L.nii",
+   "subject": "ADNI_003_S_4136",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_007_S_1304_MR_HarP_135_final_release_2015_Br_20150226093833418_S39694_I474715.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_007_S_1304_74384_L.nii",
+   "subject": "ADNI_007_S_1304",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_009_S_1334_MR_HarP_135_final_release_2015_Br_20150226110521633_S50567_I474828.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_009_S_1334_106775_L.nii",
+   "subject": "ADNI_009_S_1334",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_011_S_0010_MR_HarP_135_final_release_2015_Br_20150226093440396_S8800_I474709.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_011_S_0010_8460_L.nii",
+   "subject": "ADNI_011_S_0010",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_016_S_1263_MR_HarP_135_final_release_2015_Br_20150226100110840_S27304_I474741.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_016_S_1263_42082_L.nii",
+   "subject": "ADNI_016_S_1263",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_019_S_4549_MR_HarP_135_final_release_2015_Br_20150226111334462_S148210_I474841.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_019_S_4549_300335_L.nii",
+   "subject": "ADNI_019_S_4549",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_020_S_0213_MR_HarP_135_final_release_2015_Br_20150226110936303_S12386_I474835.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_020_S_0213_12299_L.nii",
+   "subject": "ADNI_020_S_0213",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_023_S_0139_MR_HarP_135_final_release_2015_Br_20150226110824371_S17389_I474833.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_023_S_0139_19846_L.nii",
+   "subject": "ADNI_023_S_0139",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_023_S_0916_MR_HarP_135_final_release_2015_Br_20150226102357063_S56855_I474774.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_023_S_0916_118643_L.nii",
+   "subject": "ADNI_023_S_0916",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_027_S_1081_MR_HarP_135_final_release_2015_Br_20150226100744963_S45549_I474749.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_027_S_1081_90149_L.nii",
+   "subject": "ADNI_027_S_1081",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_027_S_1385_MR_HarP_135_final_release_2015_Br_20150226110601670_S64402_I474829.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_027_S_1385_138509_L.nii",
+   "subject": "ADNI_027_S_1385",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_031_S_1209_MR_HarP_135_final_release_2015_Br_20150226095220667_S62944_I474731.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_031_S_1209_135743_L.nii",
+   "subject": "ADNI_031_S_1209",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_067_S_1185_MR_HarP_135_final_release_2015_Br_20150226100543181_S37043_I474747.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_067_S_1185_65946_L.nii",
+   "subject": "ADNI_067_S_1185",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_067_S_1253_MR_HarP_135_final_release_2015_Br_20150226105648179_S39399_I474818.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_067_S_1253_73490_L.nii",
+   "subject": "ADNI_067_S_1253",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_094_S_4089_MR_HarP_135_final_release_2015_Br_20150226104118442_S133291_I474800.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_094_S_4089_272146_L.nii",
+   "subject": "ADNI_094_S_4089",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_098_S_0149_MR_HarP_135_final_release_2015_Br_20150226094534870_S11021_I474722.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_098_S_0149_10146_L.nii",
+   "subject": "ADNI_098_S_0149",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_123_S_0094_MR_HarP_135_final_release_2015_Br_20150226103442294_S15867_I474792.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_123_S_0094_17517_L.nii",
+   "subject": "ADNI_123_S_0094",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_123_S_0162_MR_HarP_135_final_release_2015_Br_20150226105319059_S21911_I474814.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_123_S_0162_28627_L.nii",
+   "subject": "ADNI_123_S_0162",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_126_S_0606_MR_HarP_135_final_release_2015_Br_20150226105353252_S25750_I474815.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_126_S_0606_37834_L.nii",
+   "subject": "ADNI_126_S_0606",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_126_S_0784_MR_HarP_135_final_release_2015_Br_20150226100146907_S19753_I474742.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_126_S_0784_25775_L.nii",
+   "subject": "ADNI_126_S_0784",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_127_S_0844_MR_HarP_135_final_release_2015_Br_20150226103334698_S22283_I474790.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_127_S_0844_29229_L.nii",
+   "subject": "ADNI_127_S_0844",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_130_S_4730_MR_HarP_135_final_release_2015_Br_20150226103515959_S151560_I474793.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_130_S_4730_306384_L.nii",
+   "subject": "ADNI_130_S_4730",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_131_S_0691_MR_HarP_135_final_release_2015_Br_20150226105917231_S26208_I474822.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_131_S_0691_38877_L.nii",
+   "subject": "ADNI_131_S_0691",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_011_S_0183_MR_HarP_135_final_release_2015_Br_20150226105128823_S12000_I474812.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_011_S_0183_11673_L.nii",
+   "subject": "ADNI_011_S_0183",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_012_S_0689_MR_HarP_135_final_release_2015_Br_20150226102326791_S54149_I474773.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_012_S_0689_114357_L.nii",
+   "subject": "ADNI_012_S_0689",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_019_S_4252_MR_HarP_135_final_release_2015_Br_20150226101908616_S148221_I474767.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_019_S_4252_300349_L.nii",
+   "subject": "ADNI_019_S_4252",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_023_S_1289_MR_HarP_135_final_release_2015_Br_20150226094006608_S37225_I474716.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_023_S_1289_67303_L.nii",
+   "subject": "ADNI_023_S_1289",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_082_S_1079_MR_HarP_135_final_release_2015_Br_20150226102847217_S46359_I474782.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_082_S_1079_93762_L.nii",
+   "subject": "ADNI_082_S_1079",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_100_S_1062_MR_HarP_135_final_release_2015_Br_20150226101151892_S66023_I474756.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_100_S_1062_141448_L.nii",
+   "subject": "ADNI_100_S_1062",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_002_S_0295_MR_HarP_135_final_release_2015_Br_20150226095012465_S13408_I474728.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_002_S_0295_13722_L.nii",
+   "subject": "ADNI_002_S_0295",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_002_S_0413_MR_HarP_135_final_release_2015_Br_20150226110131972_S13893_I474824.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_002_S_0413_14437_L.nii",
+   "subject": "ADNI_002_S_0413",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_002_S_0685_MR_HarP_135_final_release_2015_Br_20150226110744741_S16309_I474832.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_002_S_0685_18211_L.nii",
+   "subject": "ADNI_002_S_0685",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_002_S_4225_MR_HarP_135_final_release_2015_Br_20150226102923656_S122881_I474783.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_002_S_4225_257270_L.nii",
+   "subject": "ADNI_002_S_4225",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_003_S_0931_MR_HarP_135_final_release_2015_Br_20150226104232998_S20050_I474802.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_003_S_0931_26236_L.nii",
+   "subject": "ADNI_003_S_0931",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_005_S_0602_MR_HarP_135_final_release_2015_Br_20150226103255309_S37070_I474789.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_005_S_0602_66117_L.nii",
+   "subject": "ADNI_005_S_0602",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_006_S_4449_MR_HarP_135_final_release_2015_Br_20150226105024349_S137670_I474811.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_006_S_4449_279470_L.nii",
+   "subject": "ADNI_006_S_4449",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_007_S_4387_MR_HarP_135_final_release_2015_Br_20150226094330880_S131810_I474719.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_007_S_4387_269929_L.nii",
+   "subject": "ADNI_007_S_4387",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_009_S_0862_MR_HarP_135_final_release_2015_Br_20150226104040046_S19358_I474799.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_009_S_0862_25128_L.nii",
+   "subject": "ADNI_009_S_0862",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_011_S_0002_MR_HarP_135_final_release_2015_Br_20150226101304133_S9107_I474758.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_011_S_0002_7025_L.nii",
+   "subject": "ADNI_011_S_0002",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_011_S_0021_MR_HarP_135_final_release_2015_Br_20150226101718224_S93190_I474764.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_011_S_0021_196077_L.nii",
+   "subject": "ADNI_011_S_0021",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_016_S_4121_MR_HarP_135_final_release_2015_Br_20150226095935577_S138294_I474740.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_016_S_4121_280306_L.nii",
+   "subject": "ADNI_016_S_4121",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_023_S_0031_MR_HarP_135_final_release_2015_Br_20150226110217733_S60421_I474825.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_023_S_0031_128980_L.nii",
+   "subject": "ADNI_023_S_0031",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_029_S_4279_MR_HarP_135_final_release_2015_Br_20150226103829840_S128928_I474797.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_029_S_4279_265980_L.nii",
+   "subject": "ADNI_029_S_4279",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_029_S_4385_MR_HarP_135_final_release_2015_Br_20150226104308110_S141168_I474803.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_029_S_4385_285589_L.nii",
+   "subject": "ADNI_029_S_4385",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_037_S_0303_MR_HarP_135_final_release_2015_Br_20150226094414250_S30681_I474720.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_037_S_0303_51074_L.nii",
+   "subject": "ADNI_037_S_0303",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_073_S_0089_MR_HarP_135_final_release_2015_Br_20150226110900761_S11162_I474834.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_073_S_0089_10365_L.nii",
+   "subject": "ADNI_073_S_0089",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_100_S_0047_MR_HarP_135_final_release_2015_Br_20150226110636875_S70610_I474830.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_100_S_0047_150336_L.nii",
+   "subject": "ADNI_100_S_0047",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_100_S_1286_MR_HarP_135_final_release_2015_Br_20150226094803406_S64890_I474726.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_100_S_1286_139571_L.nii",
+   "subject": "ADNI_100_S_1286",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_123_S_0072_MR_HarP_135_final_release_2015_Br_20150226102213260_S10777_I474771.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_123_S_0072_9753_L.nii",
+   "subject": "ADNI_123_S_0072",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_127_S_0260_MR_HarP_135_final_release_2015_Br_20150226105435638_S21835_I474816.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_127_S_0260_28530_L.nii",
+   "subject": "ADNI_127_S_0260",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_129_S_4369_MR_HarP_135_final_release_2015_Br_20150226111013115_S130036_I474836.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_129_S_4369_267415_L.nii",
+   "subject": "ADNI_129_S_4369",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_010_S_0419_MR_HarP_135_final_release_2015_Br_20150226104202564_S14543_I474801.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_010_S_0419_15415_L.nii",
+   "subject": "ADNI_010_S_0419",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_011_S_0005_MR_HarP_135_final_release_2015_Br_20150226093402830_S9137_I474708.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_011_S_0005_7071_L.nii",
+   "subject": "ADNI_011_S_0005",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_013_S_1276_MR_HarP_135_final_release_2015_Br_20150226101339150_S27641_I474759.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_013_S_1276_43134_L.nii",
+   "subject": "ADNI_013_S_1276",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_013_S_4731_MR_HarP_135_final_release_2015_Br_20150226104516808_S152822_I474805.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_013_S_4731_308178_L.nii",
+   "subject": "ADNI_013_S_4731",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_023_S_0061_MR_HarP_135_final_release_2015_Br_20150226095323271_S61113_I474733.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_023_S_0061_132164_L.nii",
+   "subject": "ADNI_023_S_0061",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_032_S_0677_MR_HarP_135_final_release_2015_Br_20150226102248484_S19888_I474772.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_032_S_0677_26005_L.nii",
+   "subject": "ADNI_032_S_0677",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_094_S_4460_MR_HarP_135_final_release_2015_Br_20150226094451943_S140244_I474721.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_094_S_4460_283573_L.nii",
+   "subject": "ADNI_094_S_4460",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_123_S_0106_MR_HarP_135_final_release_2015_Br_20150226105801973_S11011_I474820.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_123_S_0106_10127_L.nii",
+   "subject": "ADNI_123_S_0106",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/CN/ADNI_127_S_0259_MR_HarP_135_final_release_2015_Br_20150226093515338_S12137_I474710.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/CN/ADNI_127_S_0259_11888_L.nii",
+   "subject": "ADNI_127_S_0259",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_002_S_0729_MR_HarP_135_final_release_2015_Br_20150226100857018_S72365_I474751.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_002_S_0729_153075_L.nii",
+   "subject": "ADNI_002_S_0729",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_002_S_0782_MR_HarP_135_final_release_2015_Br_20150226093748615_S17835_I474714.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_002_S_0782_20519_L.nii",
+   "subject": "ADNI_002_S_0782",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_003_S_0908_MR_HarP_135_final_release_2015_Br_20150226100508043_S32516_I474746.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_003_S_0908_54988_L.nii",
+   "subject": "ADNI_003_S_0908",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_003_S_1057_MR_HarP_135_final_release_2015_Br_20150226104758816_S23345_I474808.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_003_S_1057_31613_L.nii",
+   "subject": "ADNI_003_S_1057",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_003_S_1074_MR_HarP_135_final_release_2015_Br_20150226104646030_S23536_I474806.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_003_S_1074_32035_L.nii",
+   "subject": "ADNI_003_S_1074",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_003_S_1122_MR_HarP_135_final_release_2015_Br_20150226102504484_S23542_I474776.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_003_S_1122_32044_L.nii",
+   "subject": "ADNI_003_S_1122",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_005_S_0222_MR_HarP_135_final_release_2015_Br_20150226100431091_S11753_I474745.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_005_S_0222_11299_L.nii",
+   "subject": "ADNI_005_S_0222",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_005_S_0448_MR_HarP_135_final_release_2015_Br_20150226095137936_S23678_I474730.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_005_S_0448_33221_L.nii",
+   "subject": "ADNI_005_S_0448",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_006_S_0322_MR_HarP_135_final_release_2015_Br_20150226103138631_S15659_I474787.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_006_S_0322_17197_L.nii",
+   "subject": "ADNI_006_S_0322",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_007_S_0101_MR_HarP_135_final_release_2015_Br_20150226095856303_S10679_I474739.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_007_S_0101_9602_L.nii",
+   "subject": "ADNI_007_S_0101",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_011_S_0241_MR_HarP_135_final_release_2015_Br_20150226105725602_S12087_I474819.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_011_S_0241_11812_L.nii",
+   "subject": "ADNI_011_S_0241",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_012_S_1292_MR_HarP_135_final_release_2015_Br_20150226095252433_S47695_I474732.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_012_S_1292_99896_L.nii",
+   "subject": "ADNI_012_S_1292",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_012_S_1321_MR_HarP_135_final_release_2015_Br_20150226095532273_S47360_I474735.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_012_S_1321_99348_L.nii",
+   "subject": "ADNI_012_S_1321",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_013_S_1186_MR_HarP_135_final_release_2015_Br_20150226105206714_S100497_I474813.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_013_S_1186_220072_L.nii",
+   "subject": "ADNI_013_S_1186",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_016_S_0769_MR_HarP_135_final_release_2015_Br_20150226105837120_S28899_I474821.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_016_S_0769_46724_L.nii",
+   "subject": "ADNI_016_S_0769",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_016_S_1092_MR_HarP_135_final_release_2015_Br_20150226094649825_S23826_I474724.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_016_S_1092_32638_L.nii",
+   "subject": "ADNI_016_S_1092",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_023_S_0376_MR_HarP_135_final_release_2015_Br_20150226101225040_S66972_I474757.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_023_S_0376_143043_L.nii",
+   "subject": "ADNI_023_S_0376",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_023_S_0604_MR_HarP_135_final_release_2015_Br_20150226100256921_S23944_I474744.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_023_S_0604_32972_L.nii",
+   "subject": "ADNI_023_S_0604",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_023_S_1247_MR_HarP_135_final_release_2015_Br_20150226094836139_S55336_I474727.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_023_S_1247_116065_L.nii",
+   "subject": "ADNI_023_S_1247",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_100_S_0892_MR_HarP_135_final_release_2015_Br_20150226100226078_S75629_I474743.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_100_S_0892_157893_L.nii",
+   "subject": "ADNI_100_S_0892",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_100_S_0995_MR_HarP_135_final_release_2015_Br_20150226101606456_S66038_I474762.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_100_S_0995_141468_L.nii",
+   "subject": "ADNI_100_S_0995",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_123_S_0390_MR_HarP_135_final_release_2015_Br_20150226102105093_S31708_I474769.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_123_S_0390_53427_L.nii",
+   "subject": "ADNI_123_S_0390",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_123_S_1300_MR_HarP_135_final_release_2015_Br_20150226102030783_S27689_I474768.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_123_S_1300_43214_L.nii",
+   "subject": "ADNI_123_S_1300",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_127_S_0397_MR_HarP_135_final_release_2015_Br_20150226104352544_S23564_I474804.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_127_S_0397_32084_L.nii",
+   "subject": "ADNI_127_S_0397",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_131_S_0384_MR_HarP_135_final_release_2015_Br_20150226101829804_S13781_I474766.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_131_S_0384_14252_L.nii",
+   "subject": "ADNI_131_S_0384",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_136_S_0579_MR_HarP_135_final_release_2015_Br_20150226102435398_S55502_I474775.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_136_S_0579_116340_L.nii",
+   "subject": "ADNI_136_S_0579",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_010_S_0422_MR_HarP_135_final_release_2015_Br_20150226101755028_S89061_I474765.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_010_S_0422_184305_L.nii",
+   "subject": "ADNI_010_S_0422",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_016_S_1138_MR_HarP_135_final_release_2015_Br_20150226102729613_S37153_I474780.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_016_S_1138_66853_L.nii",
+   "subject": "ADNI_016_S_1138",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_023_S_0331_MR_HarP_135_final_release_2015_Br_20150226105515826_S19679_I474817.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_023_S_0331_25659_L.nii",
+   "subject": "ADNI_023_S_0331",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_029_S_1073_MR_HarP_135_final_release_2015_Br_20150226111405443_S22828_I474842.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_029_S_1073_30359_L.nii",
+   "subject": "ADNI_029_S_1073",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_100_S_0006_MR_HarP_135_final_release_2015_Br_20150226104008078_S66586_I474798.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_100_S_0006_142392_L.nii",
+   "subject": "ADNI_100_S_0006",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_123_S_0050_MR_HarP_135_final_release_2015_Br_20150226100821765_S10053_I474750.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_123_S_0050_8648_L.nii",
+   "subject": "ADNI_123_S_0050",
+   "cat": "MCI"
+  }
+ ],
+ "val": [
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_003_S_1059_MR_HarP_135_final_release_2015_Br_20150226102954918_S22301_I474784.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_003_S_1059_29252_L.nii",
+   "subject": "ADNI_003_S_1059",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_003_S_4142_MR_HarP_135_final_release_2015_Br_20150226101109525_S121319_I474755.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_003_S_4142_254893_L.nii",
+   "subject": "ADNI_003_S_4142",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_005_S_0221_MR_HarP_135_final_release_2015_Br_20150226093708770_S11956_I474713.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_005_S_0221_11604_L.nii",
+   "subject": "ADNI_005_S_0221",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_067_S_0812_MR_HarP_135_final_release_2015_Br_20150226102541456_S31898_I474777.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_067_S_0812_53780_L.nii",
+   "subject": "ADNI_067_S_0812",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_123_S_0088_MR_HarP_135_final_release_2015_Br_20150226095457486_S10795_I474734.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_123_S_0088_9788_L.nii",
+   "subject": "ADNI_123_S_0088",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_123_S_0091_MR_HarP_135_final_release_2015_Br_20150226103220040_S15898_I474788.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_123_S_0091_17569_L.nii",
+   "subject": "ADNI_123_S_0091",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_130_S_0956_MR_HarP_135_final_release_2015_Br_20150226101416296_S58319_I474760.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_130_S_0956_125256_L.nii",
+   "subject": "ADNI_130_S_0956",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_002_S_1261_MR_HarP_135_final_release_2015_Br_20150226094141600_S101646_I474717.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_002_S_1261_223901_L.nii",
+   "subject": "ADNI_002_S_1261",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_009_S_0842_MR_HarP_135_final_release_2015_Br_20150226095058143_S18870_I474729.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_009_S_0842_24339_L.nii",
+   "subject": "ADNI_009_S_0842",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_010_S_0067_MR_HarP_135_final_release_2015_Br_20150226093554226_S10344_I474711.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_010_S_0067_9093_L.nii",
+   "subject": "ADNI_010_S_0067",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_011_S_0016_MR_HarP_135_final_release_2015_Br_20150226111215633_S9253_I474839.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_011_S_0016_7302_L.nii",
+   "subject": "ADNI_011_S_0016",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_018_S_0425_MR_HarP_135_final_release_2015_Br_20150226094618966_S51224_I474723.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_018_S_0425_108829_L.nii",
+   "subject": "ADNI_018_S_0425",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_100_S_0015_MR_HarP_135_final_release_2015_Br_20150226111142222_S66014_I474838.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_100_S_0015_141436_L.nii",
+   "subject": "ADNI_100_S_0015",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_133_S_0525_MR_HarP_135_final_release_2015_Br_20150226102618748_S14991_I474778.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_133_S_0525_16133_L.nii",
+   "subject": "ADNI_133_S_0525",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_002_S_1155_MR_HarP_135_final_release_2015_Br_20150226110256614_S134623_I474826.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_002_S_1155_274154_L.nii",
+   "subject": "ADNI_002_S_1155",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_007_S_0128_MR_HarP_135_final_release_2015_Br_20150226104719976_S10936_I474807.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_007_S_0128_10007_L.nii",
+   "subject": "ADNI_007_S_0128",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_094_S_1293_MR_HarP_135_final_release_2015_Br_20150226101523506_S47196_I474761.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_094_S_1293_98699_L.nii",
+   "subject": "ADNI_094_S_1293",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_123_S_0108_MR_HarP_135_final_release_2015_Br_20150226102139151_S11414_I474770.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_123_S_0108_10738_L.nii",
+   "subject": "ADNI_123_S_0108",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_126_S_1340_MR_HarP_135_final_release_2015_Br_20150226111059162_S36996_I474837.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_126_S_1340_65796_L.nii",
+   "subject": "ADNI_126_S_1340",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_011_S_0856_MR_HarP_135_final_release_2015_Br_20150226094726315_S19031_I474725.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_011_S_0856_24603_L.nii",
+   "subject": "ADNI_011_S_0856",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_127_S_0393_MR_HarP_135_final_release_2015_Br_20150226102805928_S22866_I474781.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_127_S_0393_30421_L.nii",
+   "subject": "ADNI_127_S_0393",
+   "cat": "MCI"
+  }
+ ],
+ "test": [
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_002_S_0938_MR_HarP_135_final_release_2015_Br_20150226103700108_S19852_I474795.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_002_S_0938_25952_L.nii",
+   "subject": "ADNI_002_S_0938",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_005_S_1341_MR_HarP_135_final_release_2015_Br_20150226100924968_S27673_I474752.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_005_S_1341_43188_L.nii",
+   "subject": "ADNI_005_S_1341",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_006_S_4192_MR_HarP_135_final_release_2015_Br_20150226103415712_S123807_I474791.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_006_S_4192_258594_L.nii",
+   "subject": "ADNI_006_S_4192",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_013_S_0592_MR_HarP_135_final_release_2015_Br_20150226110706358_S18419_I474831.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_013_S_0592_23618_L.nii",
+   "subject": "ADNI_013_S_0592",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_016_S_0991_MR_HarP_135_final_release_2015_Br_20150226102653761_S21736_I474779.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_016_S_0991_28391_L.nii",
+   "subject": "ADNI_016_S_0991",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/AD/ADNI_127_S_0754_MR_HarP_135_final_release_2015_Br_20150226095817072_S18515_I474738.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/AD/ADNI_127_S_0754_23787_L.nii",
+   "subject": "ADNI_127_S_0754",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/AD/ADNI_018_S_4696_MR_HarP_135_final_release_2015_Br_20150226101002358_S148880_I474753.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/AD/ADNI_018_S_4696_301389_L.nii",
+   "subject": "ADNI_018_S_4696",
+   "cat": "AD"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_002_S_0559_MR_HarP_135_final_release_2015_Br_20150226103031117_S69303_I474785.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_002_S_0559_147119_L.nii",
+   "subject": "ADNI_002_S_0559",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_002_S_1280_MR_HarP_135_final_release_2015_Br_20150226110400848_S108098_I474827.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_002_S_1280_233435_L.nii",
+   "subject": "ADNI_002_S_1280",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_003_S_0907_MR_HarP_135_final_release_2015_Br_20150226095653437_S19728_I474736.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_003_S_0907_25737_L.nii",
+   "subject": "ADNI_003_S_0907",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_020_S_1288_MR_HarP_135_final_release_2015_Br_20150226105956673_S47346_I474823.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_020_S_1288_99327_L.nii",
+   "subject": "ADNI_020_S_1288",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_032_S_0479_MR_HarP_135_final_release_2015_Br_20150226094254957_S23134_I474718.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_032_S_0479_30884_L.nii",
+   "subject": "ADNI_032_S_0479",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/CN/ADNI_098_S_0172_MR_HarP_135_final_release_2015_Br_20150226103621274_S11812_I474794.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/CN/ADNI_098_S_0172_11398_L.nii",
+   "subject": "ADNI_098_S_0172",
+   "cat": "CN"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_002_S_0954_MR_HarP_135_final_release_2015_Br_20150226103744466_S51093_I474796.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_002_S_0954_108600_L.nii",
+   "subject": "ADNI_002_S_0954",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_002_S_1070_MR_HarP_135_final_release_2015_Br_20150226104912976_S60783_I474810.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_002_S_1070_130146_L.nii",
+   "subject": "ADNI_002_S_1070",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_013_S_0325_MR_HarP_135_final_release_2015_Br_20150226101031185_S43931_I474754.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_013_S_0325_85153_L.nii",
+   "subject": "ADNI_013_S_0325",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_023_S_0030_MR_HarP_135_final_release_2015_Br_20150226111254179_S42713_I474840.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_023_S_0030_82079_L.nii",
+   "subject": "ADNI_023_S_0030",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_131_S_1389_MR_HarP_135_final_release_2015_Br_20150226103100455_S41895_I474786.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_131_S_1389_78461_L.nii",
+   "subject": "ADNI_131_S_1389",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/train/MCI/ADNI_136_S_0429_MR_HarP_135_final_release_2015_Br_20150226100620549_S51722_I474748.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/train/MCI/ADNI_136_S_0429_109839_L.nii",
+   "subject": "ADNI_136_S_0429",
+   "cat": "MCI"
+  },
+  {
+   "brain": "/content/drive/My Drive/Research Project/Data/brain/test/MCI/ADNI_009_S_1030_MR_HarP_135_final_release_2015_Br_20150226101638233_S21823_I474763.nii",
+   "seg": "/content/drive/My Drive/Research Project/Data/segmentations/test/MCI/ADNI_009_S_1030_28514_L.nii",
+   "subject": "ADNI_009_S_1030",
+   "cat": "MCI"
+  }
+ ]
+}

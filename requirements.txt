@@ -1,0 +1,10 @@
+# Versions used for the paper: [FILL] — get them in Colab with
+#   import torch, monai; print(torch.__version__, monai.__version__)
+torch
+monai
+nibabel
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
